@@ -1,4 +1,4 @@
 export default {
-  title: 'Marina Aísa - Product Designer y Front-End Developer',
-  description: 'Soy una diseñadora de producto (UI/UX) y desarrolladora Front-End que vive en Barcelona.'
+  title: 'Sergio Soriano - Desarrollador Web, Blockchain y Administrador de sistemas',
+  description: 'Soy un entusiasta de las redes Blockchain, Desarrollador Web y Administrador de sistemas que vive en Madrid.'
 }
