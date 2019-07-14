@@ -5,3 +5,8 @@
 - [x] Añadir un nuevo post.
 - [ ] Cambiar el icono en formato svg con el tag polyon.
 - [ ] Enlazar el proyecto en netlifly. 
+
+
+Pruebas:
+
+Añadir `npm run build` en la configuracion de depliegue de netlifly.
